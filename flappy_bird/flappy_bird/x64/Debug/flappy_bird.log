@@ -1,0 +1,20 @@
+﻿  game.cpp
+  main.cpp
+C:\Users\tswos\Desktop\keshe\flappy_bird\flappy_bird\game.cpp(8,10): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\tswos\Desktop\keshe\flappy_bird\flappy_bird\game.cpp(8,25): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\tswos\Desktop\keshe\flappy_bird\flappy_bird\game.cpp(9,18): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\tswos\Desktop\keshe\flappy_bird\flappy_bird\game.cpp(18,18): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\tswos\Desktop\keshe\flappy_bird\flappy_bird\game.cpp(61,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\tswos\Desktop\keshe\flappy_bird\flappy_bird\game.cpp(61,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\tswos\Desktop\keshe\flappy_bird\flappy_bird\game.cpp(112,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\tswos\Desktop\keshe\flappy_bird\flappy_bird\game.cpp(112,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\tswos\Desktop\keshe\flappy_bird\flappy_bird\game.cpp(155,17): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\tswos\Desktop\keshe\flappy_bird\flappy_bird\game.cpp(160,17): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\tswos\Desktop\keshe\flappy_bird\flappy_bird\game.cpp(165,17): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\tswos\Desktop\keshe\flappy_bird\flappy_bird\game.cpp(171,14): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\tswos\Desktop\keshe\flappy_bird\flappy_bird\game.cpp(177,15): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\tswos\Desktop\keshe\flappy_bird\flappy_bird\game.cpp(183,8): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\tswos\Desktop\keshe\flappy_bird\flappy_bird\game.cpp(209,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\tswos\Desktop\keshe\flappy_bird\flappy_bird\game.cpp(209,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码...
+  flappy_bird.vcxproj -> C:\Users\tswos\Desktop\keshe\flappy_bird\x64\Debug\flappy_bird.exe
